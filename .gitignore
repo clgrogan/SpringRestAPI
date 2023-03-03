@@ -78,9 +78,6 @@ Temporary Items
 ### Maven etc ###
 HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
 ### Eclipse ###
 *.pydevproject
