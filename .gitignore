@@ -79,6 +79,7 @@ Temporary Items
 HELP.md
 target/
 *.mvn/
+/mvnw**
 
 ### Eclipse ###
 *.pydevproject
