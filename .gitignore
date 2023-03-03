@@ -78,6 +78,7 @@ Temporary Items
 ### Maven etc ###
 HELP.md
 target/
+.mvn
 
 ### Eclipse ###
 *.pydevproject
